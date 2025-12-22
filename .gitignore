@@ -2,3 +2,5 @@
 *.til
 *.nam
 .gdb_history
+*.i64
+core*
